@@ -1,2 +1,2 @@
 # hello-world
-just another
+Learning stuff about GITHUB fopr my software projects.
